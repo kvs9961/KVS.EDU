@@ -2,6 +2,15 @@
 # FRT-PROJECT
 # This is the project that i built for completing my future ready talent internship program
 
+AZURE Link: https://lively-mud-0e6017510.3.azurestaticapps.net
+
+primary Project Link :  https://kvsfrt.z13.web.core.windows.net/
+
+secondary project Link : https://kvsfrt-secondary.z13.web.core.windows.net/
+
+Github Project Link :  https://github.com/kvs9961/KVS.EDU
+
+
 # Industry
     Edutech
 
@@ -26,7 +35,13 @@
 
     1. Static Web Apps (for deployment of the website).
     2. Azure Storage Accounts.
-    2. Visual Studio Code (for develpement of the website).                                                             
+## Web Technologies used 
+    1.java script
+    2.html
+    3.css
+    4,bootstrap
+## IDE Used
+    VS CODE
     
 ## Steps follwed While Deploying
     1. Firstly i build the compete project using visual studio code,then tested it on the live server extension's.
