@@ -25,7 +25,7 @@ Github Project Link :  https://github.com/kvs9961/KVS.EDU
 
 ## project description
     KVS.EDU is the perfect platform for students & professionals of all levels to discover, learn, and excel! Our courses are designed & taught by the best in the business,
-    with lessons equipped with interactive tools and resources for your better understanding. Take your knowledge & career to the next level - one course at a time!
+    with lessons equipped with interactive tools and resources for better understanding.
     I have created a prototype website which will provide learning in-demand technologies with the best teachers in the world, so that       
     every learner can learn regardless of their background.The platform will also provide courses and blogs,that will give learners a complete overview 
     of how to learn a latest technology in a magnificent way without with complete information about all the latest trends and news so they can stay up-to-date. 
