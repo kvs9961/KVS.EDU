@@ -12,12 +12,12 @@ Github Project Link :  https://github.com/kvs9961/KVS.EDU
 
 
 # Industry
-    Edutech
+    Ed-tech
 
 # Project Title
     KVS.EDU
 ## Problem Ststement/Oppertuniety
-    A company wants to build a sample Front End prototype of Edutech website for the online Education industry,
+    A company wants to build a sample Front End prototype of Ed-tech website for the online Education industry,
     that has been growing at an incredible rate, and so have various challenges. To build a whole website they 
     have chosen the Azure Cloud Platform. Build a website that has: Home Page,About us , Courses, and Contact us Page 
     on the Website for learners help.
