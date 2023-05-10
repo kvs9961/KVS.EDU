@@ -2,6 +2,17 @@
 # FRT-PROJECT
 # This is the project that i built for completing my future ready talent internship program
 
+# Industry
+    Edutech
+
+# Project Title
+    KVS.EDU
+## Problem Ststement/Oppertuniety
+    A company wants to build a sample Front End prototype of Edutech website for the online Education industry,
+    that has been growing at an incredible rate, and so have various challenges. To build a whole website they 
+    have chosen the Azure Cloud Platform. Build a website that has: Home Page,About us , Courses, and Contact us Page 
+    on the Website for learners help.
+
 
 ## project description
     KVS.EDU is the perfect platform for students & professionals of all levels to discover, learn, and excel! Our courses are designed & taught by the best in the business,
@@ -14,7 +25,7 @@
 ## Azure Technologies used 
 
     1. Static Web Apps (for deployment of the website).
-    2. Azure Storage Containers.
+    2. Azure Storage Accounts.
     2. Visual Studio Code (for develpement of the website).                                                             
     
 ## Steps follwed While Deploying
@@ -28,6 +39,52 @@
 ## some links
   1. github repositry : https://github.com/kvs9961/KVS.EDU
   2. github pages link : https://github.com/kvs9961/KVS.EDU/settings/pages
+  
+## screen Shots of the website after deploying.
+
+   ## Home Page
+![1](https://github.com/kvs9961/KVS.EDU/assets/126387058/d4397d43-a606-4315-a9a6-3958cc6478d4)
+
+![2](https://github.com/kvs9961/KVS.EDU/assets/126387058/5d6619ad-afe6-4ea9-8050-14d4aab30f3c)
+
+![3](https://github.com/kvs9961/KVS.EDU/assets/126387058/29a1b31f-10b9-4e9e-a7f8-fd94153cdb00)
+
+![4](https://github.com/kvs9961/KVS.EDU/assets/126387058/a1ceceb3-0f12-4e24-a789-6b85c08146e9)
+
+![5](https://github.com/kvs9961/KVS.EDU/assets/126387058/d6094466-3d78-4de9-bdf5-60360483bbbb)
+
+![6](https://github.com/kvs9961/KVS.EDU/assets/126387058/8806efda-fb49-45bf-a55f-f0b12adf30b9)
+
+![7](https://github.com/kvs9961/KVS.EDU/assets/126387058/abb15a89-e606-44d4-a230-7fe20e2d91ca)
+
+   ## About Us Page
+![9](https://github.com/kvs9961/KVS.EDU/assets/126387058/f8d43d1f-c520-40aa-b735-5697847bf3c8)
+
+![10](https://github.com/kvs9961/KVS.EDU/assets/126387058/9c01c108-e2fd-4565-8ce4-b53a86c84b6d)
+
+![11](https://github.com/kvs9961/KVS.EDU/assets/126387058/0740765d-7b1d-4970-b6b1-79e3e360d18d)
+
+![12](https://github.com/kvs9961/KVS.EDU/assets/126387058/02a703fc-77ee-4e6f-ae48-4f7a1af44720)
+
+   ## Courses Page
+![13](https://github.com/kvs9961/KVS.EDU/assets/126387058/5503b014-2758-49bf-81e5-aa6f8ff76514)
+
+![14](https://github.com/kvs9961/KVS.EDU/assets/126387058/21a2df3e-4982-428c-b328-a5e512f1609c)
+
+![15](https://github.com/kvs9961/KVS.EDU/assets/126387058/095157c5-2bc1-48f5-acfc-6ab5a945257f)
+
+   ## Contact Us Page
+![16](https://github.com/kvs9961/KVS.EDU/assets/126387058/29e8dc23-3232-48b5-8679-2bdc69809c4b)
+
+![17](https://github.com/kvs9961/KVS.EDU/assets/126387058/242ffc29-e817-4553-ae36-5749b38b5039)
+
+   ## Maps
+![18](https://github.com/kvs9961/KVS.EDU/assets/126387058/09fa681b-18c7-461a-9fff-af72ef1e30d9)
+
+   ## Footer
+![8](https://github.com/kvs9961/KVS.EDU/assets/126387058/b99e5e6a-c1aa-4d65-8b9e-cf1bb479c718)
+
+
 
 
 
